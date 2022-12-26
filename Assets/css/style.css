@@ -19,7 +19,8 @@ body{
 
 .digitalclock{
 	border:4px solid #17d4fe;
-	padding : 35px;
+	padding : 45px;
+	width: 600px;
 	border-radius:30px;
 	box-shadow:2px 2px 15px #17d4fe;
 }
